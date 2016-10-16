@@ -24,8 +24,8 @@ public:
 	void OnCollision(PhysBody3D* body1, PhysBody3D* body2);
 
 public:
-	Cube s;
-	PhysBody3D* sensor;
+	//Cube s;
+	//PhysBody3D* sensor;
 };
 
 
